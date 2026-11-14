@@ -64,7 +64,9 @@ p {
 }
 
 img {
-    width: 55%;
+    width: 80%;
+    display: block;
+    margin: 10px auto;
     border: 3px solid #111111;
     padding: 3px;
 }
